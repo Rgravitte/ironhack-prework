@@ -1,0 +1,104 @@
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+  height: 30px;
+  margin: 0 auto;
+
+}
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+.top-left{
+  width:300px !important;
+  height: 5px;
+}
+
+header{
+  background-image: url("/Users/rgravitte/Downloads/ironhack prework html/lab-html-module-exercise-master 2/starter-code/images/city-scape.svg");
+  width: 1000px;
+  height: 500px;
+}
+
+.npm-logo {
+  float: left;
+  margin-right: 30px;
+  margin-top: 19px;
+  margin-left: 9px;
+}
+
+.bear-logo {
+ float: right;
+ margin-right: 10px;
+ margin-left: 10px;
+ margin-top: 11px; 
+}
+ #search-bar {
+   width: 100%;
+ }
+
+.search {
+ width: 1000px;
+ height: 25px;
+ margin-top: 15px; 
+}
+
+.btn {
+ width: 27px;
+ height: 27px;
+ margin-left: -05px;
+ margin-top: 20px; 
+}
+
+.build {
+  color: white;
+  font-family: "Open-Sans";
+  font-weight: lighter;
+  font-size: 18px;
+  width: 800px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.btn-head {
+    color: white;
+    background-color:rgb(240, 146, 51);
+    font-size: 15px;
+    border-radius: 20px;
+    padding: 13px;
+    text-decoration: none;
+  }
+
+  .section {
+    color: white;
+    background-color: rgb(39, 53, 71);
+  }
+
+  .collab {
+    width: 200px;
+  }
+
+  #npmTwo {
+    background-image: url("/Users/rgravitte/Downloads/ironhack prework html/lab-html-module-exercise-master 2/starter-code/images/forklift.svg")
+  }
+
+  #npmThree {
+    text-align: center;
+  }
+
+  .images {
+    float: left;
+    width: 33%;
+  }
